@@ -12,7 +12,7 @@ By the end of week 5 all developers can:
 - Test drive a simple front-end web app with Javascript  
 - Follow an effective process for learning a new language 
 
-### In-week Pairing project - Thermostat
+### In-week Pairing project - [Thermostat](https://github.com/Whatapalaver/js_thermostat)
 
 ### Weekend Solo Challenge - [Bowling Scorer](https://github.com/Whatapalaver/bowling-challenge)
 
