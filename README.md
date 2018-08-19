@@ -4,6 +4,23 @@ Makers - Coding Progress
 I'm part of the July 2018 cohort at Makers bootcamp.  
 I thought it would be useful to document the key progress points through the 12 weeks.
 
+Week 6
+------
+
+By the end of the week 6 developers can build tested, easy-to-change software in a team using these processes:
+
+- Break down projects into tasks and allocate them to pairs
+- Build to a specificiation (rather than challenges)
+- Run stand-ups and retrospectives
+- Use a branch/PR/merge git workflow
+- Give and receive meaningful code review
+
+### In-week Group project - [AirBnB Clone](https://github.com/Whatapalaver/Air_BnB_Clone)  
+*This was an opportunity for us to work in a team of 4, using a stack of our choice (all completely new - JS, node, express, PG - tested with Jasmine and Cypress). Their were multiple technical challenges for us to overcome such as testing asynchronous calls to a database, automating database setup with Jake, amongst many others, but there was also the fascinating challenge of working with new people. Practising communication using an Agile framework and dealing with areas of conflict as they arose.*
+
+### Weekend Solo Challenge - [Bowling Scorer](https://github.com/Whatapalaver/bowling-challenge)  
+*This was a particularly tricky challenge as the logic behind ten pin bowling is deceptively complex. I initially went down the route of manintaing a frame and roll history that worked very well until I had to handle the final frame scoring. At that point my code expanded to about double the original lines and I decided there must be a more efficient route. Enter Uncle Bob and the bowling kata. Two solutions are presented in the repo.*
+
 Week 5
 ------
 
