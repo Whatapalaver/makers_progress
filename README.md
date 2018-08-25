@@ -4,6 +4,22 @@ Makers - Coding Progress
 I'm part of the July 2018 cohort at Makers bootcamp.  
 I thought it would be useful to document the key progress points through the 12 weeks.
 
+
+Week 7
+------
+
+By the end of week 7 all developers can:
+
+- Build a front-end app in Javascript
+- Work competently in Javascript
+- Reason about asynchronous behaviour in Javascript
+
+### In-week Pairing project - [Notes App](https://github.com/Whatapalaver/vanilla_notes)  
+*We were focussing on vanilla javascript this week so started by recreating our own testing framework. Mine doesn't quite rival Jasmine but I learned quite a lot of fundamental syntax by experimenting with a number of testing methods.*
+
+### Weekend Solo Challenge - [News Summary App](https://github.com/Whatapalaver/news-summary-challenge)  
+
+
 Week 6
 ------
 
