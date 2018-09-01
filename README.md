@@ -4,6 +4,15 @@ Makers - Coding Progress
 I'm part of the July 2018 cohort at Makers bootcamp.  
 I thought it would be useful to document the key progress points through the 12 weeks.
 
+Week 8
+-----
+By the end of week 8 all Makers developers can:
+
+- use high-quality processes to build a project in a team
+
+### In-week team engineering project - [A Facebook Clone](https://github.com/Whatapalaver/acebook-ROF)
+
+### Weekend Solo Challenge - [An Instagram Clone](https://github.com/Whatapalaver/instagram-challenge)
 
 Week 7
 ------
