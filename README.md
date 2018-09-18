@@ -4,15 +4,34 @@ Makers - Coding Progress
 I'm part of the July 2018 cohort at Makers bootcamp.  
 I thought it would be useful to document the key progress points through the 12 weeks.
 
-Week 8
+Week 11 & 12
+------
+Final project fortnight!
+### Paddlr - A Makers live [ping pong scorer and tournament manager](https://github.com/paddlr/paddlr)
+
+Week 10
+------
+Tech test week! Such fun.
+I started with the Game of Life which is just my kind of puzzle. Unfortunately I didn't have chance to finish it as the coaches chose different challenges for the week. I will be coming back to this one when I've graduated and have visions of glorious animations and perpetual life forms.
+[Game of Live - TBC](https://github.com/Whatapalaver/game-of-life)
+
+The first required test was the Bank test. Fairly dull in context but it was a great way to challenge my understanding of class encapsulation and other basics of OOP. We had a code review which I failed! The shame.... My resubmission was notably improved though.
+[Bank Tech Test](https://github.com/Whatapalaver/bank_tech_test)
+
+I finished the week attempting to get to grips with React which I used as my frontend framework to interact with a chitter RESTful api. I found React surprisingly exciting but have loads to learn before I can claim to be happy with my efforts.
+[Chitter Front-end](https://github.com/Whatapalaver/chitter_frontend)
+
+Week 8 & 9
 -----
 By the end of week 8 all Makers developers can:
 
 - use high-quality processes to build a project in a team
 
 ### In-week team engineering project - [A Facebook Clone](https://github.com/Whatapalaver/acebook-ROF)
+This was an enjoyable two week experience. It started with novelty of Rails which overwhelmed us with its voluminous structure. I don't think we maintained group motivation levels particularly well and it showed in the number of features we were ultimately able to implement. It's been an invaluable preparation for the final project where we must maintain momentum!
 
 ### Weekend Solo Challenge - [An Instagram Clone](https://github.com/Whatapalaver/instagram-challenge)
+I enjoyed doing this challenge. Having spent 4 days with Acebook and Rails, I was much more open to the magic of Rails and just let rip. Devise proved to be a total joy and I spent Sunday converting our diy authentication efforts to utilise the power of Devise.
 
 Week 7
 ------
