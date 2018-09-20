@@ -4,6 +4,16 @@ Makers - Coding Progress
 I'm part of the July 2018 cohort at Makers bootcamp.  
 I thought it would be useful to document the key progress points through the 12 weeks.
 
+Plans for post Makers continued learning:  
+
+- [ ] Complete the react redux course
+- [ ] Complete node training
+- [ ] Improve vanilla JS
+- [ ] Python
+- [ ] Personal project
+- [ ] 99 Bottles Ruby refactoring 
+- [ ] Exercism.io in ruby, is and python
+
 Week 11 & 12
 ------
 Final project fortnight!
