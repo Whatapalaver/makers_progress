@@ -6,8 +6,8 @@ I thought it would be useful to document the key progress points through the 12 
 
 Plans for post Makers continued learning:  
 
-[ ] Complete the react redux course
-[ ] Complete node training
+- [ ] Complete the react redux course
+- [ ] Complete node training
 - [ ] Improve vanilla JS
 - [ ] Python
 - [ ] Personal project
