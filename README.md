@@ -18,12 +18,13 @@ Week 11 & 12
 ------
 Final project fortnight!
 ### Paddlr - A Makers live [ping pong scorer and tournament manager](https://github.com/paddlr/paddlr)
+*I started the project working in the backend team. We opted to build our RESTful api on a combination of Node.js, Express and MongoDB. All decisions were based on a desire to consolidate existing knowledge and gain experience in common tech stacks. We were a little nervous about the choice of noSQL DB but were very keen to understand the differences and potential constraints of this approach. When not actively researching the challenges we were working in a driver-navigator pairing style. We managed to host our initial Users and Games api by the target (Wednesday)*
 
 Week 10
 ------
 Tech test week! Such fun.
 I started with the Game of Life which is just my kind of puzzle. Unfortunately I didn't have chance to finish it as the coaches chose different challenges for the week. I will be coming back to this one when I've graduated and have visions of glorious animations and perpetual life forms.
-[Game of Live - TBC](https://github.com/Whatapalaver/game-of-life)
+[Game of Life - TBC](https://github.com/Whatapalaver/game-of-life)
 
 The first required test was the Bank test. Fairly dull in context but it was a great way to challenge my understanding of class encapsulation and other basics of OOP. We had a code review which I failed! The shame.... My resubmission was notably improved though.
 [Bank Tech Test](https://github.com/Whatapalaver/bank_tech_test)
@@ -56,7 +57,7 @@ By the end of week 7 all developers can:
 *We were focussing on vanilla javascript this week so started by recreating our own testing framework. Mine doesn't quite rival Jasmine but I learned quite a lot of fundamental syntax by experimenting with a number of testing methods.*
 
 ### Weekend Solo Challenge - [News Summary App](https://github.com/Whatapalaver/news-summary-challenge)  
-
+*This is the project where I grasped the concept of the MVC Model Vioew Controller structure and felt I used appropriately to structure my newsfeed app.*
 
 Week 6
 ------
@@ -86,6 +87,7 @@ By the end of week 5 all developers can:
 ### In-week Pairing project - [Thermostat](https://github.com/Whatapalaver/js_thermostat)
 
 ### Weekend Solo Challenge - [Bowling Scorer](https://github.com/Whatapalaver/bowling-challenge)
+*See week 6 for updates*
 
 Week 4
 ------
