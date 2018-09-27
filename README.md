@@ -18,18 +18,20 @@ Week 11 & 12
 ------
 Final project fortnight!
 ### Paddlr - A Makers live [ping pong scorer and tournament manager](https://github.com/paddlr/paddlr)
-*I started the project working in the backend team. We opted to build our RESTful api on a combination of Node.js, Express and MongoDB. All decisions were based on a desire to consolidate existing knowledge and gain experience in common tech stacks. We were a little nervous about the choice of noSQL DB but were very keen to understand the differences and potential constraints of this approach. When not actively researching the challenges we were working in a driver-navigator pairing style. We managed to host our initial Users and Games api by the target (Wednesday). we then moved on to accessing the Slack event and web apis to bring in users and to post match results to our Slack channel. *
+*I started the project working in the backend team. We opted to build our RESTful api on a combination of Node.js, Express and MongoDB. All decisions were based on a desire to consolidate existing knowledge and gain experience in common tech stacks. We were a little nervous about the choice of noSQL DB but were very keen to understand the differences and potential constraints of this approach. When not actively researching the challenges we were working in a driver-navigator pairing style. We managed to host our initial Users and Games api by the target (Wednesday).*  
+
+*We then moved on to accessing the Slack event and web apis to bring in users and to post match results to our Slack channel.*
 
 Week 10
 ------
 *Tech test week! Such fun.
 I started with the Game of Life which is just my kind of puzzle. Unfortunately I didn't have chance to finish it as the coaches chose different challenges for the week. I will be coming back to this one when I've graduated and have visions of glorious animations and perpetual life forms.
-[Game of Life - TBC](https://github.com/Whatapalaver/game-of-life)
+[Game of Life - TBC](https://github.com/Whatapalaver/game-of-life)*
 
-The first required test was the Bank test. Fairly dull in context but it was a great way to challenge my understanding of class encapsulation and other basics of OOP. We had a code review which I failed! The shame.... My resubmission was notably improved though.
-[Bank Tech Test](https://github.com/Whatapalaver/bank_tech_test)
+*The first required test was the Bank test. Fairly dull in context but it was a great way to challenge my understanding of class encapsulation and other basics of OOP. We had a code review which I failed! The shame.... My resubmission was notably improved though.
+[Bank Tech Test](https://github.com/Whatapalaver/bank_tech_test)*
 
-I finished the week attempting to get to grips with React which I used as my frontend framework to interact with a chitter RESTful api. I found React surprisingly exciting but have loads to learn before I can claim to be happy with my efforts.
+*I finished the week attempting to get to grips with React which I used as my frontend framework to interact with a chitter RESTful api. I found React surprisingly exciting but have loads to learn before I can claim to be happy with my efforts.
 [Chitter Front-end](https://github.com/Whatapalaver/chitter_frontend)*
 
 Week 8 & 9
