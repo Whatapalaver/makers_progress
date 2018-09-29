@@ -8,11 +8,10 @@ Plans for post Makers continued learning:
 
 - [ ] Complete the react redux course
 - [ ] Complete node training
-- [ ] Improve vanilla JS
-- [ ] Python
-- [ ] Personal project
+- [ ] Improve vanilla JS with exercism.io
 - [ ] 99 Bottles Ruby refactoring 
-- [ ] Exercism.io in ruby, is and python
+- [ ] Java focus with Udemy and exercism
+- [ ] Game of life with frontend animation
 
 Week 11 & 12
 ------
@@ -21,6 +20,8 @@ Final project fortnight!
 *I started the project working in the backend team. We opted to build our RESTful api on a combination of Node.js, Express and MongoDB. All decisions were based on a desire to consolidate existing knowledge and gain experience in common tech stacks. We were a little nervous about the choice of noSQL DB but were very keen to understand the differences and potential constraints of this approach. When not actively researching the challenges we were working in a driver-navigator pairing style. We managed to host our initial Users and Games api by the target (Wednesday).*  
 
 *We then moved on to accessing the Slack event and web apis to bring in users and to post match results to our Slack channel.*
+Final Project at [paddlr.live](http://paddlr.live)  
+Video of our presentation (starting around 30 mins) from Makers [July 2018](https://www.facebook.com/MakersAcademy/videos/294798731249926/)
 
 Week 10
 ------
