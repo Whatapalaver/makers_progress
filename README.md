@@ -1,17 +1,19 @@
 Makers - Coding Progress
 ========================
 
-I'm part of the July 2018 cohort at Makers bootcamp.  
-I thought it would be useful to document the key progress points through the 12 weeks.
+I've now graduated from the 12 week Makers bootcamp. Here are my updated focus points on my way to securing exciting employment opportunities.
 
 Plans for post Makers continued learning:  
 
-- [ ] Complete the react redux course
-- [ ] Complete node training
-- [ ] Improve vanilla JS with exercism.io
+- [ ] Focus on Node.js and React
+- [ ] Experiment with GraphQL
+- [ ] Improve vanilla JS with exercism.io and codewars
 - [ ] 99 Bottles Ruby refactoring 
-- [ ] Java focus with Udemy and exercism
-- [ ] Game of life with frontend animation
+- [ ] Start side project - Calling all Superheroes - a React Native project
+- [ ] Start MOOC on CS and Machine Learning
+- [ ] Go crazy with meetups
+
+While part of the July 2018 cohort at Makers bootcamp, I thought it would be useful to document the key progress points through the 12 weeks.
 
 Week 11 & 12
 ------
